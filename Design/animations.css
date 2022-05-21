@@ -1,0 +1,8 @@
+@keyframes blinking {
+    from{
+        opacity: 0%;
+    }
+    to{
+        opacity: 100%;
+    }
+}
